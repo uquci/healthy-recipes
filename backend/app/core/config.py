@@ -2,7 +2,7 @@
 
 class Settings(BaseSettings):
     BACKEND_PORT: int = 8000
-    SQLITE_PATH: str = "/data/app.db"
+    SQLITE_PATH: str = "app/data/app.db"
 
     class Config:
         env_file = ".env"
