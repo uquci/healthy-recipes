@@ -23,4 +23,4 @@ FastAPI + React ile geliştirilmiş basit bir sağlıklı tarif uygulaması.
 ## Çalıştırma
 
 ### Backend
-```bash
+```bas
